@@ -1,0 +1,30 @@
+.body_backgorund {
+	background-image: url("B.jpg");
+	background-position: center;
+	background-size: cover;
+}
+
+h1 {
+	color: black;
+	font-size: 40px;
+	font-family:fantasy;
+}
+
+#myCanvas {
+	border-width: 3px;
+	border-color: black;
+	background-color: white;
+	border-style: ridge;
+}
+
+#a{
+	color: black;
+	font-family: cursive;
+}
+
+#b{
+	color: black;
+	font-family: monospace;
+	font-size: 30px;
+}
+
